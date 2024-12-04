@@ -1,4 +1,4 @@
-# LockedMeProject
+# LockedMeProject  <img src = 'https://github.com/user-attachments/assets/d45f4adf-7968-496f-8bbd-0f698f2bbac5' width=50px/>
 > LockedMeProject is a Java-based file handling project designed to perform common file management tasks in a folder. This application provides users with a menu-driven interface to manage files, such as displaying all files, adding new files, deleting existing files, searching for specific files, and exiting the application.
 ## Features
    + **Display Files:** Lists all files in the specified folder.
